@@ -1,6 +1,5 @@
 # CNN_Waste_Segregation_Assignment
-Problem Statement
-Now, let’s understand the problem statement, business objective and data to be used for this assignment.
+## Problem Statement
 
 Improper waste disposal contributes to environmental degradation, increased landfill waste and inefficient recycling processes. Manual sorting is labour-intensive, error-prone and costly. An AI-powered waste classification system addresses these challenges by streamlining waste segregation, reducing operational costs and improving recycling rates.
  
