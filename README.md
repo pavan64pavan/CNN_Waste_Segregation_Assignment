@@ -12,3 +12,11 @@ Use Cases:
 * Smart Recycling Bins
 * Automated Waste Sorting Facilities
 * Waste Monitoring and Reporting
+
+The dataset consists of images of some common waste material categories. The images are classified into seven categories, namely: Food Waste, Metal, Paper, Plastic, Other, Cardboard, and Glass. 
+
+The source data set contains seven folders, one containing images of each waste category.
+Approximately 7,000 raw images are divided among the categories.
+The data set consists of multiple folders, each representing a specific class, such as Cardboard, Food_Waste and Metal.
+Each folder contains images of objects that belong to that category. However, these items are not further subcategorised.
+For instance, the Food_Waste folder may contain images of items such as coffee grounds, tea bags and fruit peels without explicitly stating that they are coffee grounds or tea bags.
